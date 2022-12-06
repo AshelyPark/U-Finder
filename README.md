@@ -15,7 +15,7 @@
   
 ## 팀
 ![image](https://user-images.githubusercontent.com/112607474/204417286-6cd060f9-ec66-48c1-bc89-6302b6c2104c.png)
-이번 프로젝트에서는 메인페이지와 관리자페이지를 담당했습니다. 
+이번 프로젝트에서는 회원가입 및 로그인 페이지를 담당했습니다.
   
 ## ERD
 ![image](https://user-images.githubusercontent.com/112607474/204416080-62c95e9c-3cf9-45a4-8f95-c13c04e13ea6.png)
